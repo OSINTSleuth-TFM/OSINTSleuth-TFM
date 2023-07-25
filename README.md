@@ -11,50 +11,50 @@ Dispone de 16 herramientas diferentes de OSINT divididas en 5 categorías.
 	- OSRFramework
 	- Recon-ng
 	- Maltego
-	d. Maryam
-	e. OSINTool
+	- Maryam
+	- OSINTool
 
 2. Información DNS, correos electrónicos, dominios, etc
-	a. DNSEnum
-	b. Infoga
-	c. Spiderfoot
-	d. ProtOSINT
-	e. Fierce
-	f. Holehe
+	- DNSEnum
+	- Infoga
+	- Spiderfoot
+	- ProtOSINT
+	- Fierce
+	- Holehe
 
 3. Redes Sociales
-	a. Sherlock
-	b. GitRecon
+	- Sherlock
+	- GitRecon
 
 4. Descarga y Análisis De Archivos
-	a. MediaInfo
-	b. ExifTool
+	- MediaInfo
+	- ExifTool
 
 5. Motores de búsqueda
-	a. Pagodo
+	- Pagodo
 
 # Marcadores 🔗
 
 Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
 
 1. Buscadores
-	a. ZoomEye
-  b. Shodan
-  c. Startpage
-  d. Wolfram
-  e. Disconnect Search
-  f. Censys
-  g. FOFA
-  h. GreyNoise
-  i. ONYPHE
-  j. WiGLE
-  k. Publicwwww
+  - ZoomEye
+  - Shodan
+  - Startpage
+  - Wolfram
+  - Disconnect Search
+  - Censys
+  - FOFA
+  - GreyNoise
+  - ONYPHE
+  - WiGLE
+  - Publicwwww
 
 2. Redes Sociales
-	a. Facebook
-    • Find My Facebook ID
-    • Search is Back!
-  b. Twitter
+  - Facebook
+    - Find My Facebook ID
+    - Search is Back!
+  - Twitter
     • BackTweets
     • GeoSocial Footprint
     • Tweetmap
