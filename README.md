@@ -1,4 +1,4 @@
-# OSINTSlush-TFM
+# OSINTSlush-TFM ![Icono](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/07e16572-cc75-416a-9111-62efa2f15d97)
+
 OSINTSlush TFM
-![desktop-wallpaper-100-quality-for-mobile-and-hacker-logo](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/e72d1b13-c443-46d4-9a02-3c1e8c67652d)
-OSINTS
+
