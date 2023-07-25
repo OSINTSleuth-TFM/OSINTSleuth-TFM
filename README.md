@@ -55,44 +55,66 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
     - Find My Facebook ID
     - Search is Back!
   - Twitter
-    • BackTweets
-    • GeoSocial Footprint
-    • Tweetmap
-  c. Reddit
-    • Graph Reddit Comments
+    - BackTweets
+    - GeoSocial Footprint
+    - Tweetmap
+  - Reddit
+    - Graph Reddit Comments
 
 3. Username Checker
-   a. KnowEm
-   b. Namechk
-   c. namechkr
-   d. UserSearch
-   e ThatsThem
-   f. CheckUsernames
+   - KnowEm
+   - Namechk
+   - namechkr
+   - UserSearch
+   - ThatsThem
+   - CheckUsernames
 
 4. Empresas
-   a. OpenCorporates
-   b. Crunchbase
-   c. CorporateInformation
+   - OpenCorporates
+   - Crunchbase
+   - CorporateInformation
 
 5. Emails
-   a. Hunter.io
-   b. EmailFinder
-   c. Snov
-   d. Clearbit
-   e. Anymail Finder
-   f. ThatsThem
-   g. DNSLytics
-   h. IP2WHOIS
+   - Hunter.io
+   - EmailFinder
+   - Snov
+   - Clearbit
+   - Anymail Finder
+   - ThatsThem
+   - DNSLytics
+   - IP2WHOIS
 
 6. IP & DNS
-   a. YouGetSignal
-   b. AbuselPDB
-   c. DNSDumpster
-   d. MXTool
-   e. ScamAnalytics
-   f. RIPE
-   g. WHOIS
-   h. OSINT FRAMEWORK
-   i. DomainCrawler
+   - YouGetSignal
+   - AbuselPDB
+   - DNSDumpster
+   - MXTool
+   - ScamAnalytics
+   - RIPE
+   - WHOIS
+   - OSINT FRAMEWORK
+   - DomainCrawler
 
-7. 
+7. Geolocalización
+   - Geolocation
+   - IP2Location
+   - IPFingerPrints
+   - MaxMind
+   - FlightRadar
+
+8. Teléfono
+   - Generador IMEI
+   - WhoCall
+
+9. Multimedia
+   - TinEye
+   - Bing Images
+   - Yahoo Images
+   - Yandex Images
+   - Karma Decay
+   - SauceNAO
+     
+10. Análisis De Malware
+   - VX Vault
+   - ID Ransomware
+   - Malware Analysis Tools
