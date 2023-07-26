@@ -62,59 +62,59 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
     - Graph Reddit Comments
 
 3. Username Checker
-   - KnowEm
-   - Namechk
-   - namechkr
-   - UserSearch
-   - ThatsThem
-   - CheckUsernames
+- KnowEm
+- Namechk
+- namechkr
+- UserSearch
+- ThatsThem
+- CheckUsernames
 
 4. Empresas
-   - OpenCorporates
-   - Crunchbase
-   - CorporateInformation
+- OpenCorporates
+- Crunchbase
+- CorporateInformation
 
-5. Emails
-   - Hunter.io
-   - EmailFinder
-   - Snov
-   - Clearbit
-   - Anymail Finder
-   - ThatsThem
-   - DNSLytics
-   - IP2WHOIS
+6. Emails
+- Hunter.io
+- EmailFinder
+- Snov
+- Clearbit
+- Anymail Finder
+- ThatsThem
+- DNSLytics
+- IP2WHOIS
 
-6. IP & DNS
-   - YouGetSignal
-   - AbuselPDB
-   - DNSDumpster
-   - MXTool
-   - ScamAnalytics
-   - RIPE
-   - WHOIS
-   - OSINT FRAMEWORK
-   - DomainCrawler
+7. IP & DNS
+- YouGetSignal
+- AbuselPDB
+- DNSDumpster
+- MXTool
+- ScamAnalytics
+- RIPE
+- WHOIS
+- OSINT FRAMEWORK
+- DomainCrawler
 
-7. Geolocalización
-   - Geolocation
-   - IP2Location
-   - IPFingerPrints
-   - MaxMind
-   - FlightRadar
+8. Geolocalización
+- Geolocation
+- IP2Location
+- IPFingerPrints
+- MaxMind
+- FlightRadar
 
-8. Teléfono
-   - Generador IMEI
-   - WhoCall
+9. Teléfono
+- Generador IMEI
+- WhoCall
 
-9. Multimedia
-   - TinEye
-   - Bing Images
-   - Yahoo Images
-   - Yandex Images
-   - Karma Decay
-   - SauceNAO
+10. Multimedia
+- TinEye
+- Bing Images
+- Yahoo Images
+- Yandex Images
+- Karma Decay
+- SauceNAO
      
-10. Análisis De Malware
-   - VX Vault
-   - ID Ransomware
-   - Malware Analysis Tools
+11. Análisis De Malware
+- VX Vault
+- ID Ransomware
+- Malware Analysis Tools
