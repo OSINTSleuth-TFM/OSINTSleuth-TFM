@@ -7,14 +7,14 @@ OSINTSlush es una máquina virtual OSINT con un sistema operativo Ubuntu 20.04 �
 
 Dispone de 16 herramientas diferentes de OSINT divididas en 5 categorías.
 
-1. Frameworks
+1. Frameworks 🎰
 - OSRFramework
 - Recon-ng
 - Maltego
 - Maryam
 - OSINTool
 
-2. Información DNS, correos electrónicos, dominios, etc
+2. Información DNS, correos electrónicos, dominios, etc 💻
 - DNSEnum
 - Infoga
 - Spiderfoot
@@ -22,22 +22,22 @@ Dispone de 16 herramientas diferentes de OSINT divididas en 5 categorías.
 - Fierce
 - Holehe
 
-3. Redes Sociales
+3. Redes Sociales 📱
 - Sherlock
 - GitRecon
 
-4. Descarga y Análisis De Archivos
+4. Descarga y Análisis De Archivos 💽
 - MediaInfo
 - ExifTool
 
-5. Motores de búsqueda
+5. Motores de búsqueda 🔎
 - Pagodo
 
 # Marcadores 🔗
 
 Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
 
-1. Buscadores
+1. Buscadores 🔎
   - ZoomEye
   - Shodan
   - Startpage
@@ -50,7 +50,7 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
   - WiGLE
   - Publicwwww
 
-2. Redes Sociales
+2. Redes Sociales 📱
   - Facebook
     - Find My Facebook ID
     - Search is Back!
@@ -61,7 +61,7 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
   - Reddit
     - Graph Reddit Comments
 
-3. Username Checker
+3. Username Checker ✒
 - KnowEm
 - Namechk
 - namechkr
@@ -69,12 +69,12 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
 - ThatsThem
 - CheckUsernames
 
-4. Empresas
+4. Empresas 🏭
 - OpenCorporates
 - Crunchbase
 - CorporateInformation
 
-6. Emails
+6. Emails 📩
 - Hunter.io
 - EmailFinder
 - Snov
@@ -84,7 +84,7 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
 - DNSLytics
 - IP2WHOIS
 
-7. IP & DNS
+7. IP & DNS 💻
 - YouGetSignal
 - AbuselPDB
 - DNSDumpster
@@ -95,18 +95,18 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
 - OSINT FRAMEWORK
 - DomainCrawler
 
-8. Geolocalización
+8. Geolocalización 🌎
 - Geolocation
 - IP2Location
 - IPFingerPrints
 - MaxMind
 - FlightRadar
 
-9. Teléfono
+9. Teléfono 📞
 - Generador IMEI
 - WhoCall
 
-10. Multimedia
+10. Multimedia 💾
 - TinEye
 - Bing Images
 - Yahoo Images
