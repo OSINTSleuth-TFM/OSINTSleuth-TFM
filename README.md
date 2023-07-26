@@ -121,3 +121,7 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
 
 
 # Script 🕹
+
+Por último, como bien hemos mencionado anteriormente disponemos de 16 diferentes herramientas OSINT.
+Todas ellas estarán centralizadas en un script en el que tendremos disponibilidad de ejecutarlas todas desde este.
+
