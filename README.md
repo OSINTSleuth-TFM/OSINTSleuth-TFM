@@ -3,7 +3,7 @@
 
 OSINTSlush es una máquina virtual OSINT con un sistema operativo Ubuntu 20.04 💻
 
-# Herramientas OSINT 🔧
+# Herramientas OSINT 🔧🎰
 
 Dispone de 16 herramientas diferentes de OSINT divididas en 5 categorías.
 
