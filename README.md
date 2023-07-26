@@ -8,30 +8,30 @@ OSINTSlush es una máquina virtual OSINT con un sistema operativo Ubuntu 20.04 �
 Dispone de 16 herramientas diferentes de OSINT divididas en 5 categorías.
 
 1. Frameworks
-	- OSRFramework
-	- Recon-ng
-	- Maltego
-	- Maryam
-	- OSINTool
+- OSRFramework
+- Recon-ng
+- Maltego
+- Maryam
+- OSINTool
 
 2. Información DNS, correos electrónicos, dominios, etc
-	- DNSEnum
-	- Infoga
-	- Spiderfoot
-	- ProtOSINT
-	- Fierce
-	- Holehe
+- DNSEnum
+- Infoga
+- Spiderfoot
+- ProtOSINT
+- Fierce
+- Holehe
 
 3. Redes Sociales
-	- Sherlock
-	- GitRecon
+- Sherlock
+- GitRecon
 
 4. Descarga y Análisis De Archivos
-	- MediaInfo
-	- ExifTool
+- MediaInfo
+- ExifTool
 
 5. Motores de búsqueda
-	- Pagodo
+- Pagodo
 
 # Marcadores 🔗
 
