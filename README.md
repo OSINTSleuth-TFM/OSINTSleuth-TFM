@@ -139,6 +139,6 @@ Tendremos que seguir los siguientes pasos para poder ejecutarlo:
    - python3 OSINTSlush.py
   - ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/908c3db1-ddfb-4867-97ba-f67785898724)
 5. Nos ejecutará la siguiente ventana que es nuestro programa, para poder ejecutar las herramientas solamente tendremos que dar click al desplegable e ir dando click a las aplicaciones que queremos ejecutar.
-  - ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/64c86f36-2b0c-410d-b30b-baa669b81c69)
+   ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/64c86f36-2b0c-410d-b30b-baa669b81c69)
 6. Nos abrirá la herramienta indicando si se ha podido ejecutar correctamente o no.
-  - ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/cfd59192-9199-4a58-a226-95969ed010ff)
+   ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/cfd59192-9199-4a58-a226-95969ed010ff)
