@@ -122,7 +122,8 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
 
 # VPN 🌎
 
-Hoy en día cada día es más frecuente el uso de VPNs, por lo que he incluido la instalación de 3 VPNs diferentes.
+Hoy en día cada vez es más frecuente el uso de VPNs, por lo que he incluido la instalación de 3 VPNs diferentes.
+Solamente se ha llevado a cabo la instalación de estas, la configuración debe ser llevada a cabo por cada respectivo usuario.
 
 1. WindScribe 💨
 2. TunnelBear 🐻
