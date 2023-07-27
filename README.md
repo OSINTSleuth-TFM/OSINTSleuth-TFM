@@ -129,16 +129,16 @@ Tendremos que seguir los siguientes pasos para poder ejecutarlo:
 
 1. Irnos al terminal y movernos al escritorio.
    - cd Escritorio/
-   ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/a7e82cae-8458-4a8f-8f6a-63175c469a3e)
+  - ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/a7e82cae-8458-4a8f-8f6a-63175c469a3e)
 2. Movernos al directorio Scripts.
    - cd Scripts/
-   ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/42b339c7-782d-4b96-906b-0f05e2609e8c)
+  - ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/42b339c7-782d-4b96-906b-0f05e2609e8c)
 3. Cuando nos encontremos en este ya veremos nuestro programa OSINTSlush.py.
-   ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/52c78938-9b46-4288-9394-b70adda8b65a)
+  - ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/52c78938-9b46-4288-9394-b70adda8b65a)
 4. Finalmente, tendremos que ejecutarlo de igual manera que todas las aplicaciones Python.
    - python3 OSINTSlush.py
-   ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/908c3db1-ddfb-4867-97ba-f67785898724)
+  - ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/908c3db1-ddfb-4867-97ba-f67785898724)
 5. Nos ejecutará la siguiente ventana que es nuestro programa, para poder ejecutar las herramientas solamente tendremos que dar click al desplegable e ir dando click a las aplicaciones que queremos ejecutar.
-   ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/64c86f36-2b0c-410d-b30b-baa669b81c69)
+  - ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/64c86f36-2b0c-410d-b30b-baa669b81c69)
 6. Nos abrirá la herramienta indicando si se ha podido ejecutar correctamente o no.
-   ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/cfd59192-9199-4a58-a226-95969ed010ff)
+  - ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/cfd59192-9199-4a58-a226-95969ed010ff)
