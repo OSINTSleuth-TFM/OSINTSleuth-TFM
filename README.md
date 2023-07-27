@@ -120,6 +120,14 @@ Estos marcadores los podremos encontrar en los buscadores Chrome y Firefox.
 - Malware Analysis Tools
 
 
+# VPN 🌎
+
+Hoy en día cada día es más frecuente el uso de VPNs, por lo que he incluido la instalación de 3 VPNs diferentes.
+
+1. WindScribe 💨
+2. TunnelBear 🐻
+3. ProtonVPN ⚛️
+
 # Script 🕹
 
 Por último, como bien hemos mencionado anteriormente disponemos de 16 diferentes herramientas OSINT.
