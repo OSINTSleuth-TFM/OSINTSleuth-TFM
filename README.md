@@ -160,5 +160,5 @@ Para poder descargar la máquina virtual tendremos los dos siguientes enlaces:
 2. Mega: https://mega.nz/file/9zEgmLbA#G1LGKS_wmG7OyjRHrK8S6YfeTb-JbwBA5ALU9ndOByY
 
 Para poder acceder es necesario usar las siguientes credenciales:
-Usuario/User: user
-Contraseña/Password: user
+- Usuario/User: user
+- Contraseña/Password: user
