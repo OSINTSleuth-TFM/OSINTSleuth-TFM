@@ -151,3 +151,14 @@ Tendremos que seguir los siguientes pasos para poder ejecutarlo:
    ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/64c86f36-2b0c-410d-b30b-baa669b81c69)
 6. Nos abrirá la herramienta indicando si se ha podido ejecutar correctamente o no.
    ![image](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/cfd59192-9199-4a58-a226-95969ed010ff)
+
+# Descarga 💾
+
+Para poder descargar la máquina virtual tendremos los dos siguientes enlaces:
+
+1. Media Fire: https://www.mediafire.com/file/264x495q8c73qph/TFM_SANTOS_G%25C3%2593MEZ.vdi/file
+2. Mega: https://mega.nz/file/9zEgmLbA#G1LGKS_wmG7OyjRHrK8S6YfeTb-JbwBA5ALU9ndOByY
+
+Para poder acceder es necesario usar las siguientes credenciales:
+Usuario/User: user
+Contraseña/Password: user
