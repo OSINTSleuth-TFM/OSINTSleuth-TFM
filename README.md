@@ -1,7 +1,7 @@
 ![LOGO FINAL](https://github.com/OSINTSlush/OSINTSlush-TFM/assets/140528708/a7997579-eef9-482b-8cb0-c6ee7ed7226a)
-# OSINTSlush-TFM
+# OSINTSleuth-TFM
 
-OSINTSlush es una máquina virtual OSINT con un sistema operativo Ubuntu 20.04 💻
+OSINTSleuth es una máquina virtual OSINT con un sistema operativo Ubuntu 20.04 💻
 
 # Herramientas OSINT 🔧
 
