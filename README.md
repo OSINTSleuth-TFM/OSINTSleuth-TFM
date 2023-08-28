@@ -165,3 +165,5 @@ Para poder acceder es necesario usar las siguientes credenciales:
 - Contraseña/Password: user
 
 # Vídeo Demostración ▶️
+¡Para conocer el funcionamiento de OSINTSleuth dejo un vídeo demostración donde se revisa la máquina en detalle!
+https://www.youtube.com/watch?v=3ouopx7aWGs&t=663s&ab_channel=OSINTSleuth
