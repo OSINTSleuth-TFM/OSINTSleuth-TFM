@@ -158,7 +158,7 @@ Tendremos que seguir los siguientes pasos para poder ejecutarlo:
 Para poder descargar la máquina virtual tendremos los dos siguientes enlaces:
 
 1. Media Fire: https://www.mediafire.com/file/264x495q8c73qph/TFM_SANTOS_G%25C3%2593MEZ.vdi/file
-2. Mega: https://mega.nz/file/9zEgmLbA#G1LGKS_wmG7OyjRHrK8S6YfeTb-JbwBA5ALU9ndOByY
+2. Mega: [https://mega.nz/file/9zEgmLbA#G1LGKS_wmG7OyjRHrK8S6YfeTb-JbwBA5ALU9ndOByY](https://mega.nz/file/JjNwBZRB#Dnxf9K_Xebxc9Lry-Gcr9l91DN2RzOYcU-aY3OFyaeM)
 
 Para poder acceder es necesario usar las siguientes credenciales:
 - Usuario/User: user
